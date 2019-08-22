@@ -8,7 +8,7 @@ python WhiteWalker.py
 ```
 Output image will be saved into `output.jpg`. 
 
-[WhiteWalkerPython][/Present.jpg]
+![WhiteWalkerPython](./Present.jpg)
 
 ## Author
 * [Amin Aghaee][https://www.github.com/aminrd]
